@@ -101,7 +101,7 @@ public class Contact {
 
         public ContactBuilder withPhone(Long phone)
         {
-            this.email = email;
+            this.phone = phone;
             return this;
         }
 

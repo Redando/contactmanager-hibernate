@@ -13,5 +13,6 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.11'
     compile group: 'org.hibernate', name: 'hibernate-core', version: '5.2.1.Final'
     compile group: 'com.h2database', name: 'h2', version: '1.4.192'
+    compile group: 'javax.transaction', name: 'jta', version: '1.1'
 
 }
